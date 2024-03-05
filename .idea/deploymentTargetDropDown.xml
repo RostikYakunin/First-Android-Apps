@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="BirthdayCardPreview">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\Rostyslav\.android\avd\Pixel_7_Pro.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-03-03T14:44:59.081190600Z" />
+        </State>
+      </entry>
+      <entry key="GreetingPreview">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\Rostyslav\.android\avd\Pixel_3a_API_34_extension_level_7_x86_64.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-02-29T13:02:37.046876Z" />
+        </State>
+      </entry>
+      <entry key="GreetingPreview (1)">
+        <State />
+      </entry>
+      <entry key="GreetingPreview (2)">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="article">
+        <State />
+      </entry>
+      <entry key="businesscard">
+        <State />
+      </entry>
+      <entry key="quadrant">
+        <State />
+      </entry>
+      <entry key="taskmanager">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
